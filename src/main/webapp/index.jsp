@@ -139,7 +139,7 @@
                 <img src="./assets/img/card 10.webp" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Ok Computer</h2>
-                    <h6 class="des">Lorem hrlfodj dolor sit consectetur elit.</h6>
+                    <h6 class="des">Lorem hrlfodj dolor hello consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
